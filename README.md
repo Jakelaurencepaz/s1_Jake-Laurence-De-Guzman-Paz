@@ -1,11 +1,11 @@
 # s1_Jake-Laurence-De-Guzman-Paz
 
-#include <iostream>
-#include <string>
-using namespace std;
+        #include <iostream>
+        #include <string>
+        using namespace std;
 
-int main()
-{
+        int main()
+        {
     string userInput;
     cout << "Please enter you're full name:" << endl;
     cin >> userInput;
